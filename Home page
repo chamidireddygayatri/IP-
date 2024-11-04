@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Online Cake Ordering System></title>
+<style>
+body 
+{
+text-align:center;
+     background-color: skyblue;
+     color:black;
+}
+</style>
+</head>
+<body>
+<h2>Welcome to online cake ordering</h2>
+<a href="login1.html">login</a> | <a href="registration1.html">registration</a>
+</body>
+</html>
